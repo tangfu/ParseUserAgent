@@ -1,0 +1,8 @@
+ParseUserAgent
+==============
+
+Parse UserAgent for C++gen-project
+===========
+[注意事项]
+1.使用前先调用UA_Init(int &argc, char** &argv)
+2.需要一个配置文件useragent.conf来配置解析规则
